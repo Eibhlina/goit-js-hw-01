@@ -1,4 +1,3 @@
-# goit-markup-hw-01
 
 https://eibhlina.github.io/goit-js-hw-01/
 
