@@ -2,7 +2,7 @@
 https://eibhlina.github.io/goit-js-hw-01/
 
 
-Zadanie 1: Zamawianie droidów
+# Zadanie 1: Zamawianie droidów
 
 Stacja sprzedaży droidów naprawczych jest gotowa do pracy, zostało tylko napisać oprogramowanie dla działu sprzedaży.
 
@@ -17,7 +17,7 @@ Uzupełnij kod funkcji tak, aby zwracała ciąg znaków z komunikatem o zakupie 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Zadanie 2. Dostawa towarów
+# Zadanie 2. Dostawa towarów
 
 Zadeklaruj funkcję getShippingMessage, która oczekuje trzech parametrów, których wartości zostaną ustawione po jej wywołaniu: • country — pierwszy parametr, ciąg znaków zawierający kraj dostawy; • price — drugi parametr, liczba zawierająca całkowity koszt towarów; • deliveryFee — trzeci parametr, liczba zawierająca koszt dostawy towaru.
 
@@ -29,7 +29,7 @@ Uzupełnij kod funkcji tak, aby zwracał ciąg znaków z komunikatem o dostawie 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Zadanie 3: Szerokość elementu
+# Zadanie 3: Szerokość elementu
 
 Zadeklaruj funkcję getElementWidth, która oczekuje trzech parametrów, których wartości zostaną ustawione po jej wywołaniu: • content — pierwszy parametr, szerokość treści; • padding — drugi parametr, wartość poziomego wypełnienia dla każdej strony; • border — trzeci parametr, wartość grubości obramowania dla każdej strony. Wartościami wszystkich parametrów będą ciągi znaków w formacie Npx, gdzie N jest dowolną liczbą całkowitą lub ułamkową.
 
