@@ -14,7 +14,6 @@ Zadeklaruj funkcję makeTransaction, która oczekuje dwóch parametrów, któryc
 
 Uzupełnij kod funkcji tak, aby zwracała ciąg znaków z komunikatem o zakupie droidów naprawczych: "You ordered <quantity> droids worth <totalPrice> credits!", gdzie: • <quantity> — to liczba zamówionych droidów; • <totalPrice> — to całkowity koszt zamówienia, tj. koszt wszystkich zamówionych droidów.
 
-Weź poniższy kod i wklej go po deklaracji swojej funkcji, aby sprawdzić poprawność jej działania. Konsola wyświetli wyniki jego działania.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,9 +27,6 @@ Uzupełnij kod funkcji tak, aby zwracał ciąg znaków z komunikatem o dostawie 
 
 
 
-Weź poniższy kod i wklej go po deklaracji swojej funkcji, aby sprawdzić poprawność jej działania. Wyniki jej działania zostaną wyświetlone w konsoli.
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Zadanie 3: Szerokość elementu
@@ -42,6 +38,4 @@ Zadeklaruj funkcję getElementWidth, która oczekuje trzech parametrów, któryc
 Zmodyfikuj kod funkcji tak, aby zwracała liczbę — całkowitą szerokość elementu. Podczas obliczania całkowitej szerokości pamiętaj, że wartość box-sizing jest równa border-box.
 
 
-
-Weź poniższy kod i wklej go po deklaracji swojej funkcji, aby sprawdzić, czy działa poprawnie. Konsola wyświetli wyniki jego działania.
 
