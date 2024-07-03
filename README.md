@@ -16,7 +16,7 @@ Uzupełnij kod funkcji tak, aby zwracała ciąg znaków z komunikatem o zakupie 
 
 Weź poniższy kod i wklej go po deklaracji swojej funkcji, aby sprawdzić poprawność jej działania. Konsola wyświetli wyniki jego działania.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Zadanie 2. Dostawa towarów
 
@@ -31,7 +31,7 @@ Uzupełnij kod funkcji tak, aby zwracał ciąg znaków z komunikatem o dostawie 
 Weź poniższy kod i wklej go po deklaracji swojej funkcji, aby sprawdzić poprawność jej działania. Wyniki jej działania zostaną wyświetlone w konsoli.
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Zadanie 3: Szerokość elementu
 
